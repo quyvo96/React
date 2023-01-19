@@ -1,9 +1,5 @@
-import React from 'react';
-
-import Ingredients from './components/Ingredients/Ingredients';
-
-const App = props => {
-  return <Ingredients />;
-};
+function App() {
+  return <div>Hello!</div>;
+}
 
 export default App;
